@@ -1,4 +1,4 @@
-# Hi — I'm Destin Ozcan 👋
+# Hi there, I'm Destin Ozcan 👋
 
 Full‑stack web developer and third‑year Software Engineering student at Trent University. I build production‑quality web applications with TypeScript and JavaScript, design clean UX, and author reliable backend APIs. I'm actively seeking full‑time summer opportunities where I can apply my internship experience building location and monitoring dashboards, and continue growing as an engineer.
 
