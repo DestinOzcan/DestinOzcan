@@ -36,9 +36,6 @@ Professional experience
 - Queen’s University — Telecommunications Lab (Web Development Intern)  
   May 2024 – Aug 2024, Kingston, ON  
   - Built a digital dashboard (HTML/CSS/JavaScript) to monitor Raspberry Pis and Jetson Nanos; designed dynamic menus and a UI that supports manual updates to monitored data.
-- Dairy Queen — Crew Leader  
-  Apr 2023 – Aug 2023, Kingston, ON  
-  - Rapid promotion through roles; supported scheduling and administrative tasks; led and organized teams.
 
 Education
 - Trent University — Bachelor’s in Software Engineering (Computer Science)  
